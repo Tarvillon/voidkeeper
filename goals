@@ -1,0 +1,28 @@
+secret handling +
+formatting list +
+refactoring/restructure code +
+modify command +
+filtering objects for get/modify (FINISH specify_void) +
+modify secrets +
+display/copy to clipboard secrets +
+display option for password +
+advanced fuzzy search (service:name and so on) +
+initial start +
+password input check, password editing fixup +
+code restructure +
+check if needed keep data in clipboard (if yes - should move to xclip) +
+backup mechanics +
+Void class, VoidList
+config 
+prompt fixup
+README
+tests
+aliases
+code restructure
+master password
+package & github
+lock mechanics
+
+# distant future
+encryption
+end-to-end sync
